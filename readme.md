@@ -31,9 +31,9 @@
 #### 2. Then you need to set the enviroment variables
       - HOST > The smtp server ip / host.
       - PORT_SMTP > The smtp server port.
-      - EMAIL_USER > Your email that will be used to send the email. 
-      - EMAIL_PW > Your email password.
-      - GOOGLE_APPLICATION_CREDENTIALS*** > If running the flask app (main.py) outside the GCP you will need a json key, and here you will put the path to that file.
+      - EMAIL_USER > Your email that will be used to send the emails. 
+      - EMAIL_PW > Your email password (if in gmail, you need to set the app password).
+      - GOOGLE_APPLICATION_CREDENTIALS > If running the flask app (main.py) outside the GCP you will need a json key, and here you will put the path to that file.
       - TIME_GOAL > The execution time limit that you want your app to run bellow.
       - PROJECT_ID > Your GCP project id.
       - PUBSUB_TOPIC > The Pub / Sub topic that will be used.
