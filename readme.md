@@ -38,4 +38,4 @@
       - PROJECT_ID > Your GCP project id.
       - PUBSUB_TOPIC > The Pub / Sub topic that will be used.
       
-#### 3. Lastly you will need to run the flask app locally and have the functions running in the cloud with the Cloud Pub/Sub set up
+#### 3. Lastly you will need to run the flask app locally and have the function running in the cloud with the Cloud Pub/Sub set up
