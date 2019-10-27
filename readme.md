@@ -14,11 +14,11 @@
 
 ###### **1. caller.py**
 
-###### The caller.py is just a little python script that make requests to the flask app.
+###### The caller.py is just a small python script that make requests to the flask app.
 
 ###### **2. main.py**
 
-###### The main.py is a flask app that simulates a application where the pyinstrument monitors the execution time / call stack.
+###### The main.py is a flask app that simulates a application where the pyinstrument monitors the execution time / call stack and create Pub/Sub messages.
 
 ###### **3. email.py**
 
