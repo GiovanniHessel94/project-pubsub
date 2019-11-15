@@ -36,9 +36,9 @@ def profiler_endpoint():
         # email_type can be one of the following values:
         # 1 - text with html report
         # 2 - text only
-        email_type = '1',
+        email_type = '1'
         # set the email text
-        email_text = f'Hi,\n\n\nThe service has taken more time thant the goal of {TIME_GOAL} seconds.\nMore details in the attached html report.\n\n\nThanks.',
+        email_text = f'Hi,\n\n\nThe service has taken more time thant the goal of {TIME_GOAL} seconds.\nMore details in the attached html report.\n\n\nThanks.'
         # set the email subject
         email_subject = 'Execution time of the service'
         # set the email that will be identified as the emissor
