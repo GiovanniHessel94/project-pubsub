@@ -4,7 +4,7 @@ This project is a simple example made to learn how to use Google Cloud Pub/Sub.
 
 ## Description
 
-The project has three python files, each has it own responsability, as described bellow. 
+The project has three python files, each has it own responsability, as described below. 
 
 * caller.py
 
