@@ -33,7 +33,7 @@ The email.py is a simple Cloud Function that receives the event and sends a emai
       - PROJECT_ID > Your GCP project id.
       - PUBSUB_TOPIC > The Pub / Sub topic that will be used.
 
-#### 3. With all the above done, you will need to run the flask app locally and have the function running in GCP with the Cloud Pub/Sub set up.
+#### 3. With all the above done, you will need to run the flask app locally and have the function running in GCP with the Cloud Pub/Sub set up. Then you only need to use the caller.py to the requests. You may need to edit the caller.py to adjust the number of requests send to obtain the desire result.
 
 ## Author
 
