@@ -1,4 +1,4 @@
 requests == 2.22.0
 pyinstrument == 3.0.3
 google-cloud-pubsub == 1.0.2
-Flask == 1.1.1
+Flask == 2.3.2
